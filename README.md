@@ -28,6 +28,7 @@ A **modern enterprise-grade LMS** built with Next.js, Node.js, and AWS. Instruct
 ---
 
 ## 📐 Architecture
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/db42eba2-193d-4cc4-a542-caa68ef7fa3c" />
 
 The LMS follows a **modular and scalable architecture**:
 
