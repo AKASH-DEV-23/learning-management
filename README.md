@@ -28,7 +28,6 @@ A **modern enterprise-grade LMS** built with Next.js, Node.js, and AWS. Instruct
 ---
 
 ## 📐 Architecture
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/db42eba2-193d-4cc4-a542-caa68ef7fa3c" />
 
 The LMS follows a **modular and scalable architecture**:
 
@@ -37,5 +36,7 @@ The LMS follows a **modular and scalable architecture**:
 * **Database** – DynamoDB for course data, users, and progress tracking
 * **Storage** – AWS S3 for video and static content
 * **Delivery** – CloudFront CDN for global, low-latency delivery
+---
+![Image](https://github.com/user-attachments/assets/a6ec1643-99a9-4bda-b2f0-7058a43ffcd7)
 
 ---
